@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/GA/mlops/mlflow/tracking/mlruns/315388570841325222
+creation_time: 1722345161698
+experiment_id: '315388570841325222'
+last_update_time: 1722345161698
+lifecycle_stage: active
+name: tracking-demo
